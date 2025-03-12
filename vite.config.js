@@ -3,11 +3,11 @@ import vue from '@vitejs/plugin-vue'
 import path from 'path'
 
 export default defineConfig({
+  base: '/newsweb/', // Đúng tên repo GitHub của bạn
   plugins: [vue()],
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/newsweb/' // 👈 Thay đổi base path để phù hợp với GitHub Pages
 })
