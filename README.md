@@ -1,76 +1,63 @@
-# 📰 NewsWeb
+📰 NewsWeb
+NewsWeb is a personal news blog platform where users can easily read, share, and comment on articles.
 
-**NewsWeb** là một nền tảng blog tin tức cá nhân, nơi người dùng có thể đọc, chia sẻ và bình luận các bài viết một cách dễ dàng.
+🔍 Purpose
+The website provides:
 
----
+Fast and clear access to news articles.
 
-## 🔍 Mục đích
+A blogging platform for registered users to post their own content.
 
-Trang web cung cấp:
-- Nguồn tin tức nhanh chóng, rõ ràng.
-- Nền tảng đăng bài cho các thành viên đã đăng ký.
+👥 Target Users
+Guests (unregistered users):
 
----
+Can view all news articles and article details.
 
-## 👥 Người dùng chính
+Members (registered users):
 
-- **Khách (User không đăng ký):**
-  - Có thể xem tất cả tin tức và chi tiết bài viết.
-  
-- **Thành viên (User đã đăng ký):**
-  - Đăng nhập / Đăng ký / Đăng nhập bằng Google.
-  - Đăng bài viết mới.
-  - Bình luận.
-  - Quản lý bài viết cá nhân.
+Login / Register / Login with Google
 
----
+Post new articles
 
-## ✨ Tính năng chính
+Comment on articles
 
-- 🔐 **Login / Register / Login with Google**
-- 📰 **Xem danh sách tất cả bài viết**
-- 📄 **Xem chi tiết từng bài viết**
-- 💬 **Bình luận dưới mỗi bài viết**
-- 📝 **Tạo bài viết mới (chỉ dành cho thành viên)**
-- 🧾 **Quản lý bài viết đã đăng**
+Manage their own articles
 
----
+✨ Key Features
+🔐 Login / Register / Login with Google
 
-## 🛠 Công nghệ sử dụng
+📰 View a list of all articles
 
-- 💻 **Frontend:** Vue.js
-- 🎨 **UI:** Bootstrap
+📄 View detailed content of each article
 
----
+💬 Comment under each article
 
-## 🚀 Cách cài đặt & chạy dự án
+📝 Create new posts (members only)
 
-🔗 Vui lòng xem hướng dẫn cài đặt chi tiết tại:  
-# https://newweb-c3f9e.firebaseapp.com/
+🧾 Manage published posts
 
-> *(Thay `#` bằng link cụ thể tới tài liệu setup nếu có)*
+🛠 Technology Stack
+💻 Frontend: Vue.js
 
----
+🎨 UI Framework: Bootstrap
 
-## 📄 License
+🚀 How to Set Up & Run the Project
+Please refer to the detailed setup guide at:
+👉 https://newweb-c3f9e.firebaseapp.com/
+(Replace with specific documentation link if available)
 
-Distributed under the **MIT License**. Xem chi tiết trong file `LICENSE`.
+📄 License
+Distributed under the MIT License. See the LICENSE file for more information.
 
----
+👨‍💻 Author
+Name: Trần Ngọc Khánh
 
-## 👨‍💻 Tác giả
+GitHub: khanh4689
 
-- **Họ tên:** Trần Ngọc Khánh
-- **GitHub:** (https://github.com/khanh4689/newsweb)
-- **Email:** khanhtrankevin123@gmail.com
+Email: khanhtrankevin123@gmail.com
 
----
-
-## 📬 Liên hệ
-
-Bạn có thể liên hệ tôi qua email để góp ý hoặc hợp tác phát triển thêm:
-- 📧 khanhtrankevin123@gmail.com
-- 0382908401
-
----
+📬 Contact
+Feel free to reach out via email for suggestions or collaboration:
+📧 khanhtrankevin123@gmail.com
+📞 0382908401
 
